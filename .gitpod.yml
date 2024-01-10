@@ -8,6 +8,6 @@ tasks:
       conda activate base
       conda create -n jupyter -y -q jupyter
       conda activate jupyter
-      pip install nextflowpy
+      pip install nextflowpy zenodo_get
       jupyter-server
       #bash test.data.sh

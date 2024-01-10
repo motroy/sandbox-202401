@@ -1,0 +1,5 @@
+databases/
+work/
+.nextflow/
+mikrokondo/
+test/
